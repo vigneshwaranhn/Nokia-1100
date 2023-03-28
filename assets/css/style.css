@@ -115,7 +115,7 @@ input[readonly]:focus {
 }
   
 #battery > .step,
-  #battery:after {
+#battery:after {
     margin-left: auto;
 }
   
